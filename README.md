@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Contact me :
-[Gmail : randeep.c7@gmail.com](https://www.gmail.com/) | [LinkedIn](https://www.linkedin.com/in/randeep-choudhury)
+[Gmail : randeep.c7@gmail.com](https://www.gmail.com/) | [LinkedIn](https://www.linkedin.com/in/randeep-choudhury-9534b8119)
