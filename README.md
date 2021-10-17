@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Randeep710
 - 👀 I’m interested in : Software Testing and Software Development
 - 🌱 I’m currently learning : Test Automation using Selenium with Java
-- 💞️ I’m looking to collaborate on : Any interesting project related to Software Testing/Development
+- 💞️ I’m looking to collaborate on : Projects related to Software Testing/Development
 <!---
 - 📫 How to reach me ...
 --->
